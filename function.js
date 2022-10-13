@@ -14,6 +14,6 @@ Your's surname: ${surname}`;
 console.log(person("Aycan","Yılmaz"))
 
 /*******************************************/
-
+//     Arrow Function(Fat Arrow Function)
 var person=(girl,man)=>`Hello, ${girl} and ${man}`
 console.log(person("Seda","Mert"))
